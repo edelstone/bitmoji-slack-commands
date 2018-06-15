@@ -1,6 +1,6 @@
 # Two-person Bitmoji Slack commands
 
-**All good for @-ing another person, like so:** `/bitmoji @username command`
+**Great for @-ing another person, like so:** `/bitmoji @username command`
 
 ```
 achoo
