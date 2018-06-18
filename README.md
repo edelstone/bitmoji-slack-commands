@@ -51,6 +51,8 @@ fail
 fake news
 fishing
 food
+friday
+friends
 fu
 funnel
 ghosting
@@ -86,6 +88,7 @@ hot dog
 hubba hubba
 hula hoop
 i forgot
+i got you
 i hate you
 i hear ya
 i like
@@ -112,6 +115,7 @@ math
 me
 meow
 miss you
+monday
 money
 nah fam
 new year new me
@@ -133,6 +137,7 @@ rain
 rainbow
 regrets
 ridic
+sad
 salad
 salad bowl
 salt shaker
@@ -158,6 +163,7 @@ storm
 streak
 stripper
 sub
+sunday
 sunny
 surfing
 sushi
@@ -169,6 +175,7 @@ thanks
 that sucks
 that's cold
 thinking about you
+thursday
 tired
 tree
 tuesday
@@ -179,6 +186,7 @@ uh huh
 uh oh
 watermelon
 we got this
+wednesday
 what up fam
 why me
 winner
@@ -189,10 +197,12 @@ woohoo
 xmas
 y tho
 yay
+yes
 you bet
 you can do it
 you got it
 you guys suck
 you had one job
+you're welcome
 zero chill
 ```
