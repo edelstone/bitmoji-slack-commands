@@ -77,7 +77,6 @@ halloween
 hamburger
 happy
 happy valentine's day
-hate myself
 heart balloons
 heh
 hello
