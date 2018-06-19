@@ -2,6 +2,8 @@
 
 **Great for @-ing another person, like so:** `/bitmoji @username command`
 
+[How to add new commands to this list](https://github.com/edelstone/bitmoji-slack-commands/blob/master/contributing.md)
+
 ```
 achoo
 alarm clock
