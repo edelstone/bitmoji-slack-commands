@@ -217,5 +217,3 @@ zero chill
 ```
 
 #### Courtesy of [Michael Edelstone](https://edelstone.github.io) at [Kuali](https://kuali.co)
-
-Last update: 19 June 2018
