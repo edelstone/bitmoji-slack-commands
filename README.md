@@ -1,8 +1,14 @@
-# Two-person Bitmoji Slack commands
+## Two-person Bitmoji Slack commands
 
-**Great for @-ing another person, like so:** `/bitmoji @username command`
+### Tell a friend you care about them: `/bitmoji @username command`
 
-**[How to add new commands to this list](https://github.com/edelstone/bitmoji-slack-commands/blob/master/contributing.md)**
+<img class="image" alt="Various Bitmoji" src="/bitmojis.png">
+
+
+### Contribute
+- Something missing or broken? [Report it!](https://github.com/edelstone/bitmoji-slack-commands/blob/master/contributing.md)
+- [View on GitHub](https://github.com/edelstone/bitmoji-slack-commands)
+
 
 ```
 achoo
@@ -209,3 +215,7 @@ you had one job
 you're welcome
 zero chill
 ```
+
+#### Courtesy of [Michael Edelstone](https://edelstone.github.io) at [Kuali](https://kuali.co)
+
+Last update: 19 June 2018
