@@ -1,4 +1,4 @@
-# Contributing new commands
+# Adding new commands
 
 Simply tell me the command(s) to add in one of the following ways:
 
