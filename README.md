@@ -4,8 +4,6 @@
 
 <img class="image" alt="Various Bitmoji" src="bitmojis.png">
 
-
-### Contribute
 - Something missing or broken? [Report it!](https://github.com/edelstone/bitmoji-slack-commands/blob/master/contributing.md)
 - [View on GitHub](https://github.com/edelstone/bitmoji-slack-commands)
 
