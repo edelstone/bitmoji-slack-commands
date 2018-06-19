@@ -113,6 +113,7 @@ lit
 literally
 lol wat
 loser
+love you
 lute
 math
 me
