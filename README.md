@@ -126,6 +126,7 @@ meow
 miss you
 monday
 money
+my hero
 nah fam
 new year new me
 no way
