@@ -2,7 +2,7 @@
 
 ### Tell a friend you care about them: `/bitmoji @username command`
 
-<img class="image" alt="Various Bitmoji" src="/bitmojis.png">
+<img class="image" alt="Various Bitmoji" src="bitmojis.png">
 
 
 ### Contribute
