@@ -84,6 +84,7 @@ happy valentine's day
 heart balloons
 heh
 hello
+hero
 hey
 hi you
 high five
