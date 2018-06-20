@@ -215,4 +215,6 @@ you're welcome
 zero chill
 ```
 
-#### Courtesy of [Michael Edelstone](https://edelstone.github.io) at [Kuali](https://kuali.co)
+#### Courtesy of [@edelstone](https://github.com/edelstone) and [Kuali](https://kuali.co)
+
+Thank you [@luoser](https://github.com/luoser) for the original version
