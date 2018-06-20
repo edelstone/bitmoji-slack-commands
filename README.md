@@ -217,4 +217,4 @@ zero chill
 
 #### Courtesy of [@edelstone](https://github.com/edelstone) and [Kuali](https://kuali.co)
 
-Thank you [@luoser](https://github.com/luoser) for the original version
+Thank you [@luoser](https://github.com/luoser) for the [original version](https://github.com/luoser/bitmoji-slack-commands)
