@@ -1,6 +1,6 @@
 ## Two-person Bitmoji Slack commands
 
-### Tell a friend you care about them: `/bitmoji @username command`
+### Tell a friend you care about them with `/bitmoji @username command`, and `@` your own username to go twinsies
 
 <img class="image" alt="Various Bitmoji" src="bitmojis.png">
 
