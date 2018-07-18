@@ -40,6 +40,7 @@ chinese new year
 clutch
 cocktail
 coffee
+crown
 cuddles
 cup of tea
 current mood
