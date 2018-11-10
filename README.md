@@ -1,10 +1,11 @@
 ## Two-person Bitmoji Slack commands
 
-### Tell a friend you care about them with `/bitmoji @username command`, and `@` your own username to go twinsies
+### Tell a friend you care about them with `/bitmoji @username command-name`
+### (Hint: you can `@` your own username to go twinsies)
 
-<img class="image" alt="Various Bitmoji" src="bitmojis.png">
+<img title="infinity • sushi • grilled cheese • blue heart • high five" class="image" alt="Various two-person Bitmojis" src="bitmojis.png">
 
-- Something missing or broken? [Report it!](https://github.com/edelstone/bitmoji-slack-commands/blob/master/contributing.md)
+- Something missing or broken? [Report it](https://github.com/edelstone/bitmoji-slack-commands/blob/master/contributing.md)!
 - [View on GitHub](https://github.com/edelstone/bitmoji-slack-commands)
 
 

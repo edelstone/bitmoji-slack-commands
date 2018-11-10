@@ -27,6 +27,10 @@
   }
 }
 
+.markdown-body h3 {
+  margin: 0 0 5px;
+}
+
 .markdown-body ul, .markdown-body ol {
   padding-left: 0;
   list-style: none;
@@ -34,10 +38,24 @@
 
 .markdown-body .highlight pre, .markdown-body pre {
   text-align: left;
+  column-count: 3;
+  @media (max-width: 650px) {
+    column-count: 1;
+  }
 }
 
 img {
-  margin: 25px auto;
+  margin: 30px auto 20px;
+}
+
+a {
+  text-decoration: underline;
+
+  &:active,
+  &:focus,
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 .anchorjs-link {
